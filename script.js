@@ -1,4 +1,4 @@
-let bill = document.querySelector('.rateButton');
+let bill = document.querySelector('#rating');
 let outputDiv = document.querySelector('#output');
 
 bill.forEach(button => {
